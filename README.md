@@ -87,11 +87,12 @@ End-to-end machine learning project for predicting lead conversion using Logisti
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Currently Working On
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhina-manual&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+- 🤖 AI-Powered Sales Intelligence Copilot
+- 📈 Machine Learning & Predictive Analytics
+- 🌐 Expanding my Data Science Portfolio
+- ☁️ Learning MLOps and AI Deployment
 
 ---
 
