@@ -20,7 +20,7 @@
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://akhinamanual.framer.website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akhina--manual-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhina-manual)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akhina--manual-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhina-manual-513a45145/)
 [![Email](https://img.shields.io/badge/Email-akhinamanual8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhinamanual8@gmail.com)
 
 ---
